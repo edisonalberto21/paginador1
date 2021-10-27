@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem19",
+    "version": "1.11.0",
+    "libraryName": "paginador-1",
+    "libraryId": "da60cd3f-da14-4548-b5ab-ac3b62d713e6",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
